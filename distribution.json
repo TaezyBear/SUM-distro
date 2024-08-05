@@ -443,13 +443,13 @@
           }
         },
         {
-          "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.28+mc1.20.1@jar",
+          "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.12+mc1.20.1@jar",
           "name": "Embeddium",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1316946,
-            "url": "https://raw.githubusercontent.com/TaezyBear/SUM-distro/main/servers/SUM-1.20.1/forgemods/required/embeddium-0.3.28+mc1.20.1.jar",
-            "MD5": "832b5f9a12f38bae289b0da1d99a4482"
+            "size": 988624,
+            "url": "https://raw.githubusercontent.com/TaezyBear/SUM-distro/main/servers/SUM-1.20.1/forgemods/required/Embeddium-Mod-Forge-1.20.1.jar",
+            "MD5": "c1d8d76a1801c8c3e50d3ff59cbebb46"
           }
         },
         {
@@ -483,13 +483,13 @@
           }
         },
         {
-          "id": "net.irisshaders.iris:oculus:1.7.0@jar",
+          "id": "net.coderbot.iris:oculus:1.6.13@jar",
           "name": "Oculus",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2831148,
-            "url": "https://raw.githubusercontent.com/TaezyBear/SUM-distro/main/servers/SUM-1.20.1/forgemods/required/oculus-mc1.20.1-1.7.0.jar",
-            "MD5": "45b96133bb46cc61dd9778bd4fca741d"
+            "size": 2798867,
+            "url": "https://raw.githubusercontent.com/TaezyBear/SUM-distro/main/servers/SUM-1.20.1/forgemods/required/Oculus-Mod-Forge-1.20.1.jar",
+            "MD5": "23f6cbf8a687f049301533b792734b2f"
           }
         },
         {
