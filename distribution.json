@@ -9,8 +9,8 @@
   "servers": [
     {
       "id": "SUM-1.20.1",
-      "name": "SUM (Minecraft 1.20.1)",
-      "description": "SUM Running Minecraft 1.20.1 (Forge v47.3.0)",
+      "name": "숨더랜드 (Minecraft 1.20.1)",
+      "description": "숨더랜드(Forge v47.3.0)",
       "icon": null,
       "version": "1.0.0",
       "address": "standard.alcl.cloud:23248",
