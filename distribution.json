@@ -483,13 +483,13 @@
           }
         },
         {
-          "id": "net.coderbot.iris:oculus:1.6.13@jar",
+          "id": "net.irisshaders.iris:oculus:1.7.0@jar",
           "name": "Oculus",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2798867,
+            "size": 2831148,
             "url": "https://raw.githubusercontent.com/TaezyBear/SUM-distro/main/servers/SUM-1.20.1/forgemods/required/Oculus-Mod-Forge-1.20.1.jar",
-            "MD5": "23f6cbf8a687f049301533b792734b2f"
+            "MD5": "45b96133bb46cc61dd9778bd4fca741d"
           }
         },
         {
