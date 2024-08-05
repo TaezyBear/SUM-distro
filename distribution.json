@@ -473,6 +473,16 @@
           }
         },
         {
+          "id": "com.github.alexthe666:citadel:2.4.9@jar",
+          "name": "Citadel",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3074057,
+            "url": "https://raw.githubusercontent.com/TaezyBear/SUM-distro/main/servers/SUM-1.20.1/forgemods/required/Citadel-Mod-Forge-1.20.1.jar",
+            "MD5": "c389f7a899dc0c6263e66d6b2102e88f"
+          }
+        },
+        {
           "id": "net.irisshaders.iris:oculus:1.7.0@jar",
           "name": "Oculus",
           "type": "ForgeMod",
